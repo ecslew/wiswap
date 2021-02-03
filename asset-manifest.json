@@ -4,8 +4,8 @@
     "static/js/0.a228d2f7.chunk.js.map": "/wiswap/static/js/0.a228d2f7.chunk.js.map",
     "static/js/1.f1f65074.chunk.js": "/wiswap/static/js/1.f1f65074.chunk.js",
     "static/js/1.f1f65074.chunk.js.map": "/wiswap/static/js/1.f1f65074.chunk.js.map",
-    "main.js": "/wiswap/static/js/main.c8c795ca.chunk.js",
-    "main.js.map": "/wiswap/static/js/main.c8c795ca.chunk.js.map",
+    "main.js": "/wiswap/static/js/main.7f86fb81.chunk.js",
+    "main.js.map": "/wiswap/static/js/main.7f86fb81.chunk.js.map",
     "runtime-main.js": "/wiswap/static/js/runtime-main.4a8c000c.js",
     "runtime-main.js.map": "/wiswap/static/js/runtime-main.4a8c000c.js.map",
     "static/css/4.adc682cd.chunk.css": "/wiswap/static/css/4.adc682cd.chunk.css",
@@ -22,7 +22,7 @@
     "static/js/9.c48ff7f4.chunk.js": "/wiswap/static/js/9.c48ff7f4.chunk.js",
     "static/js/9.c48ff7f4.chunk.js.map": "/wiswap/static/js/9.c48ff7f4.chunk.js.map",
     "index.html": "/wiswap/index.html",
-    "precache-manifest.0a961394f7191580e60f8a8e9f177a66.js": "/wiswap/precache-manifest.0a961394f7191580e60f8a8e9f177a66.js",
+    "precache-manifest.22e424d6883f21e1a58c6fb3b46c4c2b.js": "/wiswap/precache-manifest.22e424d6883f21e1a58c6fb3b46c4c2b.js",
     "service-worker.js": "/wiswap/service-worker.js",
     "static/css/4.adc682cd.chunk.css.map": "/wiswap/static/css/4.adc682cd.chunk.css.map",
     "static/js/4.c3f7b893.chunk.js.LICENSE.txt": "/wiswap/static/js/4.c3f7b893.chunk.js.LICENSE.txt",
@@ -63,6 +63,6 @@
     "static/js/runtime-main.4a8c000c.js",
     "static/css/4.adc682cd.chunk.css",
     "static/js/4.c3f7b893.chunk.js",
-    "static/js/main.c8c795ca.chunk.js"
+    "static/js/main.7f86fb81.chunk.js"
   ]
 }
